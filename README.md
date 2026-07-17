@@ -1,42 +1,73 @@
-# Hi there! 👋 I'm Leonardo Cadena
+<h1 align="center">Hi 👋, I'm Leonardo Cadena</h1>
+
+<h3 align="center">🧪 Quality Assurance Analyst | Software Testing</h3>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a **Quality Assurance Analyst** specialized in **Software Testing**, passionate about ensuring software quality and delivering the best user experience.
+🔍 Passionate about software quality and delivering reliable, user-friendly applications.
 
-🎓 Graduate of the **Quality Assurance Engineering Bootcamp** at TripleTen.
+🎓 Graduate of the **Quality Assurance Engineering Bootcamp** at **TripleTen**.
 
-I enjoy identifying defects, improving software quality, and working with development teams to deliver reliable, user-focused products. I'm continuously expanding my knowledge in manual testing, API testing, and test automation.
+🚀 Continuously improving my skills in software testing, automation, and quality processes.
+
+---
 
 ## 🛠️ Skills
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Exploratory Testing
-- Test Case Design
-- Bug Reporting
-- Web Testing
-- API Testing (Basic)
-- Agile Methodologies (Scrum)
-- Jira
-- TestRail
-- Git & GitHub
+✅ Manual Testing
 
-## 🌱 Currently Learning
+✅ Functional Testing
 
-- Test Automation
-- Selenium
-- Playwright
-- SQL
-- JavaScript
-- API Testing
+✅ Regression Testing
 
-## 🎯 Career Goal
+✅ Exploratory Testing
 
-To grow as a Quality Assurance professional by contributing to high-quality software projects, improving testing processes, and continuously learning new testing tools and technologies.
+✅ Smoke Testing
 
-## 📫 Connect with Me
+✅ Test Case Design
 
-Feel free to connect with me and follow my QA journey.
+✅ Bug Reporting
+
+✅ API Testing (Basic)
+
+✅ Agile (Scrum)
+
+✅ Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+🤖 Selenium
+
+🎭 Playwright
+
+🗄️ SQL
+
+🌐 API Testing
+
+💻 JavaScript
+
+---
+
+## 🎯 Professional Goal
+
+To contribute to high-quality software products by applying best QA practices, continuously learning, and growing as a Software Quality Assurance Engineer.
+
+---
+
+## 🌎 Location
+
+📍 Colombia
+
+---
+
+## ✨ Fun Fact
+
+💡 Every bug found before production is a better experience for users.
+
+---
+
+### 🚀 Thanks for visiting my profile!
